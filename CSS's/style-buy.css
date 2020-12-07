@@ -1,0 +1,119 @@
+.header
+{
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	background: #00364F;
+	width: 100%;
+	height: 19%;
+}
+.header-logo
+{
+	position: absolute;
+	top:20%;
+	left:47%;
+}
+.siparis-arka
+{
+	position: absolute;
+	width: 35%;
+	height: 60%;
+	top: 20%;
+	left: 32.5%;
+	border-radius: 10px;
+	background: #DEDEDE;
+}
+.ad-soyad
+{
+	position: absolute;
+	top: 10%;
+	width: 50%;
+	height: 10%;
+	left: 10%;
+	border-radius: 10px;
+	border:0px;
+}
+.kart-numarasi
+{
+	position: absolute;
+	top: 22%;
+	width: 50%;
+	height: 10%;
+	left: 10%;
+	border-radius: 10px;
+	border:0px;
+}
+.cvc
+{
+	position: absolute;
+	top: 22%;
+	width: 20%;
+	height: 10%;
+	left: 65%;
+	border-radius: 10px;
+	border:0px;
+}
+.adres
+{
+	position: absolute;
+	top: 34%;
+	width: 80%;
+	height: 30%;
+	left: 10%;
+	border-radius: 10px;
+	border:0px;
+}
+.submit
+{
+	position: absolute;
+	width: 20%;
+	height: 5%;
+	top:70%;
+	left: 40%;
+	border-radius: 10px;
+	border:0px;
+}
+.footer
+{
+	position: absolute;
+	top: 86.2%;
+	left: 0%;
+	width: 100%;
+	height: 7%;
+	background: #00364F;
+}
+.footer-adres
+{
+	position: absolute;
+	top: 12%;
+	left: 1%;
+	font-family: Arial;
+	font-size: 0.8em;
+	color: #fff;
+}
+.footer-telefon
+{
+	position: absolute;
+	top: 2%;
+	left: 88%;
+	font-family: Arial;
+	font-size: 1em;
+	color:#fff;
+}
+.footer-copyright
+{
+	position: absolute;
+	top: 93%;
+	left: 0%;
+	width: 100%;
+	height: 7%;
+	background: #DEDEDE;
+}
+.footer-copyright-center
+{
+	position: absolute;
+	top: 6%;
+	left: 37%;
+	color: #00364F;
+	font-size:1em;
+}

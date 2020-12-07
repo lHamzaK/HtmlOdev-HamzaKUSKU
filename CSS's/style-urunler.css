@@ -1,0 +1,322 @@
+.header
+{
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	background: #00364F;
+	width: 100%;
+	height: 19%;
+}
+.header-logo
+{
+	position: absolute;
+	top:20%;
+	left:5%;
+}
+.search-button
+{
+	position: absolute;
+	top: 35%;
+	left: 38%;
+	width: 25%;
+	height: 30%;
+	background: #fff;
+	border-radius: 10px;
+}
+.search-button-image
+{
+	position: absolute;
+	top:18%;
+	left: 2%;
+}
+#search
+{
+	position: absolute;
+	top: 5%;
+	height: 90%;
+	left: 9.5%;
+	width: 90%;
+	border-style: none;
+	border-bottom-right-radius: 10px;
+	border-top-right-radius: 10px;
+}
+a
+{
+	color:#4A4A4A;
+	text-decoration:none;
+	font-size:1.2em;
+	font-family: Berlin Sans FB;
+}
+a:visited
+{
+	color:#4A4A4A;
+	text-decoration:none;
+	font-size:1.2em;
+	font-family: Berlin Sans FB;
+}
+a:hover
+{
+	color:#4A4A4A;
+	text-decoration:none;
+	font-size:1.2em;
+	font-family: Berlin Sans FB;
+}
+a:active
+{
+	color:#4A4A4A;
+	text-decoration:none;
+	font-size:1.2em;
+	font-family: Berlin Sans FB;
+}
+.yanMenu ul {
+	position: absolute;
+	top:17.2%;
+	width: 5%;
+	height: 15%;
+	list-style:none;
+	width:150px;
+}
+.yanMenu li {
+	position:relative;
+	width: 182%;
+	height: 60%;
+}
+.yanMenu li ul {
+	position:absolute;
+	height: 148%; 
+	display:none; 
+	left:85%; 
+	top:0px; 
+}
+.yanMenu li:hover ul {display:block; }
+.yanMenu li a {
+	display:block;
+	background-color: #DEDEDE;
+	border-bottom:0;
+	padding:5%;
+}
+.yanMenu li a:hover {
+	background-color: #EDEDED;
+	color: black;
+}
+.urun-1
+{
+	position: relative;
+	top: 25%;
+	left: 25%;
+	width: 20%;
+	height: 60%;
+	margin-right: 70px;
+	float: left;
+}
+.urun-1-ici
+{
+	position: absolute;
+	left: 10%;
+}
+.urun-1-yazi
+{
+	position: absolute;
+	top: 59%;
+	left: 3%;
+	font-size: 1em;
+	font-family: Bahnschrift;
+}
+.urun-1-fiyat
+{
+	position: absolute;
+	top: 85%;
+	left: 8%;
+	font-size: 1.4em;
+	font-family: Bahnschrift;
+}
+.urun-1-buy
+{
+	position: absolute;
+	top: 90%;
+	left: 60%;
+	width: 30%;
+	height: 7%;
+	background: #D99C23;
+	border-radius: 10px;
+	font-size: 1.3em;
+	font-family: Bahnschrift;
+}
+.urun-2
+{
+	position: relative;
+	top: 28%;
+	left: 25%;
+	width: 20%;
+	height: 60%;
+	margin-right: 70px;
+	float: left;
+}
+.urun-3
+{
+	position: relative;
+	top: 31%;
+	left: 25%;
+	width: 20%;
+	height: 60%;
+	margin-right: 70px;
+	float: left;
+}
+.hr-1
+{
+	position: absolute;
+	top: 210%;
+	left: 23%;
+	width: 73%;
+	color: #00364F;
+}
+.resim-1
+{
+	position: absolute;
+	top:216%;
+	left: 20%;
+}
+.resim-2
+{
+	position: absolute;
+	top:216%;
+	left: 36%;
+}
+.resim-3
+{
+	position: absolute;
+	top:216%;
+	left: 52%;
+}
+.resim-4
+{
+	position: absolute;
+	top:216%;
+	left: 68%;
+}
+.footer
+{
+	position: absolute;
+	top: 241%;
+	left: 0%;
+	width: 100%;
+	height: 7%;
+	background: #00364F;
+}
+.footer-adres
+{
+	position: absolute;
+	top: 12%;
+	left: 1%;
+	font-family: Arial;
+	font-size: 0.8em;
+	color: #fff;
+}
+.footer-telefon
+{
+	position: absolute;
+	top: 2%;
+	left: 88%;
+	font-family: Arial;
+	font-size: 1em;
+	color:#fff;
+}
+.footer-copyright
+{
+	position: absolute;
+	top: 248%;
+	left: 0%;
+	width: 100%;
+	height: 7%;
+	background: #DEDEDE;
+}
+.footer-copyright-center
+{
+	position: absolute;
+	top: 6%;
+	left: 37%;
+	color: #00364F;
+	font-size:1em;
+}
+.fiyat-araligi
+{
+	position: absolute;
+	width: 20%;
+	height: 24%;
+	top: 80%;
+	border-bottom: solid 1px;
+	border-bottom-color: #DEDEDE;
+	left: 3.5%;
+}
+.fiyat-ici
+{
+	position: absolute;
+	top: -2%;
+	left: 3%;
+	font-family: Bahnschrift;
+	font-size: 1em;
+	color : #363636;
+	padding-bottom: 3px;
+}
+.check
+{
+	position: relative;
+	top:29%;
+	left: 2%;
+}
+.check-2
+{
+	position: relative;
+	top:28%;
+	left: 1%;
+	color: #363636;
+	padding:3px;
+}
+.islemci
+{
+	position: absolute;
+	width: 20%;
+	height: 14%;
+	top: 103%;
+	border-bottom: solid 1px;
+	border-bottom-color: #DEDEDE;
+	left: 3.5%;
+}
+.check-is
+{
+	position: relative;
+	top:50%;
+	left: 2%;
+}
+.check-2-is
+{
+	position: relative;
+	top:50%;
+	left: 1%;
+	color: #363636;
+	padding:3px;
+}
+.disk
+{
+	position: absolute;
+	width: 20%;
+	height: 14%;
+	top: 116%;
+	border-bottom: solid 1px;
+	border-bottom-color: #DEDEDE;
+	left: 3.5%;
+}
+.check-disk
+{
+	position: relative;
+	top:50%;
+	left: 2%;
+}
+.check-2-disk
+{
+	position: relative;
+	top:50%;
+	left: 1%;
+	color: #363636;
+	padding:3px;
+}
